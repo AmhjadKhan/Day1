@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aqua;
+}
+.justify-content-between{
+    text-align: right;
+    word-spacing: 10px;
+}
+.nabver-1{
+    text-align: left;
+    size: bolder;
+}
+.hellow{
+    display: flex;
+}
+.blog{
+    text-align: center;
+    text-decoration: none;
+    margin: 50px;
+    border: 10px solid red;
+    padding: 20px;
+    text-align: justify;
+    box-shadow: 10px 10px 20px blue;
+    font-size: larger;
+    
+}
+.blog-2{
+    text-align: center;
+    color: white;
+}
